@@ -24,7 +24,7 @@ Understand and use DBSCAN and agglomerative clustering techniques.
 | Topic | Skills |
 | ------ | ------ |
 | [Slides](https://github.com/ga-curriculum/ml-dbscan-agglom-clustering/blob/main/01-slides/DBSCAN-and-Agglomerative-Clustering.pdf){:target="_blank"} | - Conceptual overview of boosting |
-| [Clustering with DBSCAN](./02-dbscan-et-al/) | - Walkthrough of DBSCAN in `scikit-learn` |
+| [Clustering with DBSCAN](https://github.com/ga-curriculum/ml-dbscan-agglom-clustering){:target="_blank"} | - Walkthrough of DBSCAN in `scikit-learn` |
 
 
 ## Prerequisites
